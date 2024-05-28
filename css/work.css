@@ -1,0 +1,136 @@
+#work{
+    text-align: center;
+    opacity: 0;
+    animation: fadeIn 1s ease forwards; 
+    overflow: auto;
+    display: none;
+
+    #regulation{
+        margin-top: 100px;
+        table{
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 80%;
+            
+        }
+        td{
+            max-width: 100%;
+            padding-left: 50px;
+        }
+        td p{
+            max-width: 1300px;
+        }
+        td img{
+            max-width: 100%;
+        }
+
+
+    }
+    #institution{
+        margin-top: 200px;
+        table{
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 80%;
+            
+        }
+        td{
+            max-width: 100%;
+            padding-left: 50px;
+        }
+        td p{
+            max-width: 600px;
+        }
+        td img{
+            max-width: 100%;
+        }
+
+    }
+    #law{
+        margin-top: 200px;
+        table{
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 80%;
+            
+        }
+        td{
+            max-width: 100%;
+            padding-left: 50px;
+        }
+        td p{
+            max-width: 600px;
+        }
+        td img{
+            max-width: 100%;
+        }
+
+    }
+    #boat{
+        margin-top: 200px;
+        table{
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 80%;
+            
+        }
+        td{
+            max-width: 100%;
+            padding-left: 50px;
+        }
+        td p{
+            max-width: 600px;
+        }
+        td img{
+            max-width: 100%;
+        }
+
+    }
+    #suwon{
+        margin-top: 200px;
+        table{
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 80%;
+            
+        }
+        td{
+            max-width: 100%;
+            padding-left: 50px;
+        }
+        td p{
+            max-width: 600px;
+        }
+        td img{
+            max-width: 100%;
+        }
+
+    }
+    #crane{
+        margin-top: 200px;
+        table{
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 80%;
+            
+        }
+        td{
+            max-width: 100%;
+            padding-left: 50px;
+        }
+        td p{
+            max-width: 700px;
+        }
+        td img{
+            max-width: 100%;
+        }
+
+    }
+
+}
+
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}
